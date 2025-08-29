@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState } from "react";
 import ImageIcon from "@/components/icons/ImageIcon";
 import FaceIcon from "@/components/icons/FaceIcon";
 import TextareaAutosize from "react-textarea-autosize";

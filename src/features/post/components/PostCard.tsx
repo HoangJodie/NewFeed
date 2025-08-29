@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import ScrollContainer from "react-indiana-drag-scroll";
 import HeartIcon from "@/components/icons/HeartIcon";
 import CommentIcon from "@/components/icons/CommentIcon";

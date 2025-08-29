@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import BaseHeader from "./layout/BaseHeader";
 
 export default function FeedHeader() {

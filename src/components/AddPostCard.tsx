@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function AddPostCard() {
   return (
     <div className="flex flex-row flex-wrap items-center bg-white border-2 rounded-xl h-20 w-full max-w-[640px] pr-4">
