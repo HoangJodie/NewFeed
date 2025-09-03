@@ -24,7 +24,7 @@ export default function Navbar() {
             {/* Sidebar desktop */}
             <div className="hidden mobile:flex flex-col fixed h-screen">
                 <div className="flex justify-center items-center p-4">
-                    <img src="src/assets/logo.png" alt="logo" className="w-24 h-16" />
+                    <img src="/assets/logo.png" alt="logo" className="w-24 h-16" />
                 </div>
 
                 <div className="flex flex-col items-center w-20 justify-center flex-1 gap-8">
